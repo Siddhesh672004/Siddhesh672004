@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### 🎯 Full Stack Developer | Ex-Teaching Assistant @GeeksforGeeks | C++ & DSA Expert
+### 🎯 Full Stack Developer | Ex-Intern Assistant @GeeksforGeeks | C++ & DSA Expert
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=AI+%26+Data+Science+Engineering+Student;300%2B+Algorithms+Solved+in+C%2B%2B;MERN+Stack+Developer;System+Design+Enthusiast" alt="Typing SVG" />
   
