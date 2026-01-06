@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  ### 🎯 Full Stack Developer | Ex-Intern @GeeksforGeeks | C++ & DSA Expert | System Design
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+%26+Data+Science+Engineering+Student;300%2B+Algorithms+Solved+in+C%2B%2B;MERN+Stack+Developer;System+Design+Enthusiast" alt="Typing SVG" />
+### 🎯 Full Stack Developer | Ex-Teaching Assistant @GeeksforGeeks | C++ & DSA Expert
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=AI+%26+Data+Science+Engineering+Student;300%2B+Algorithms+Solved+in+C%2B%2B;MERN+Stack+Developer;System+Design+Enthusiast" alt="Typing SVG" />
   
 </div>
 
@@ -111,10 +111,6 @@ const siddheshChaudhari = {
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh672004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%" alt="Top Languages"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhesh672004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="98%" alt="Contribution Graph"/>
