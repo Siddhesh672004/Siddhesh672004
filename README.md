@@ -148,7 +148,7 @@ Complete booking platform with admin management, user auth, and documented datab
 <img src="https://github-readme-stats.vercel.app/api?username=Siddhesh672004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" height="170" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh672004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" height="170" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Siddhesh672004&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=Siddhesh672004&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&t=1750700000" alt="Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhesh672004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="96%" alt="Contribution Graph"/>
 
